@@ -1,0 +1,16 @@
+﻿@model List<CascadeBrewingCo.Models.Product>
+
+@{
+    ViewData["Title"] = "Brews On Tap";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+@foreach (var item in Model)
+{
+    <li>@item.name</li>
+}
+
+
+
+
