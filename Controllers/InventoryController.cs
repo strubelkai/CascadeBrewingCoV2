@@ -38,10 +38,7 @@ namespace CascadeBrewingCo.Controllers
                 sale: false
             );
 
-            Product createdItem = await container.CreateItemAsync<Product>(
-                item: newItem,
-                partitionKey: new PartitionKey("61dba35b-4f02-45c5-b648-c6badc0cbd79")
-            );
+            Product createdItem = await container.CreateItemAsync<Product>(newItem);
 
             Console.WriteLine($"Created item:\t{createdItem.id}\t[{createdItem.categoryName}]");
         }

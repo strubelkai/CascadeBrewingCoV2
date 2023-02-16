@@ -35,7 +35,7 @@ builder.Services.AddSingleton(s =>
 // New instance of Container class referencing the server-side container
 Container container = await database.CreateContainerIfNotExistsAsync(
     id: "brews",
-    partitionKeyPath: "/category",
+    partitionKeyPath: "/categoryId",
     throughput: 400
 );
 // </create_container>
