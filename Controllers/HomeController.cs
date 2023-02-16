@@ -27,13 +27,6 @@ public class HomeController : Controller
         return View();
     }
 
-    public async Task<HttpStatusCode> Cosmos()
-    {
-        var dbResp = await _cosmosClient.CreateDatabaseIfNotExistsAsync("cosmicworks");
-        var containerResp = await dbResp.Database.CreateContainerIfNotExistsAsync("products", "/category");
-        return containerResp.StatusCode;
-    }
-
     public IActionResult Privacy()
     {
         return View();
