@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/philipedat/Projects/CascadeBrewingCo/CascadeBrewingCo.csproj": {}
+    "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj": {}
   },
   "projects": {
-    "/Users/philipedat/Projects/CascadeBrewingCo/CascadeBrewingCo.csproj": {
+    "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/philipedat/Projects/CascadeBrewingCo/CascadeBrewingCo.csproj",
+        "projectUniqueName": "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj",
         "projectName": "CascadeBrewingCo",
-        "projectPath": "/Users/philipedat/Projects/CascadeBrewingCo/CascadeBrewingCo.csproj",
-        "packagesPath": "/Users/philipedat/.nuget/packages/",
-        "outputPath": "/Users/philipedat/Projects/CascadeBrewingCo/obj/",
+        "projectPath": "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj",
+        "packagesPath": "/Users/kristenfrohning/.nuget/packages/",
+        "outputPath": "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/philipedat/.nuget/NuGet/NuGet.Config"
+          "/Users/kristenfrohning/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

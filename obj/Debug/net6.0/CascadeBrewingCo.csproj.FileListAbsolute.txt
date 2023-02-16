@@ -24,3 +24,34 @@
 /Users/philipedat/Projects/CascadeBrewingCo/obj/Debug/net6.0/CascadeBrewingCo.pdb
 /Users/philipedat/Projects/CascadeBrewingCo/obj/Debug/net6.0/CascadeBrewingCo.genruntimeconfig.cache
 /Users/philipedat/Projects/CascadeBrewingCo/obj/Debug/net6.0/ref/CascadeBrewingCo.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/appsettings.Development.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/appsettings.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo.staticwebassets.runtime.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo.deps.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo.runtimeconfig.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/CascadeBrewingCo.pdb
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.csproj.AssemblyReference.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.AssemblyInfoInputs.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.AssemblyInfo.cs
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.csproj.CoreCompileInputs.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.MvcApplicationPartsAssemblyInfo.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.RazorAssemblyInfo.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.RazorAssemblyInfo.cs
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets/msbuild.CascadeBrewingCo.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets/msbuild.build.CascadeBrewingCo.props
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CascadeBrewingCo.props
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CascadeBrewingCo.props
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/scopedcss/bundle/CascadeBrewingCo.styles.css
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/scopedcss/projectbundle/CascadeBrewingCo.bundle.scp.css
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/refint/CascadeBrewingCo.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.pdb
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.genruntimeconfig.cache
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/ref/CascadeBrewingCo.dll
