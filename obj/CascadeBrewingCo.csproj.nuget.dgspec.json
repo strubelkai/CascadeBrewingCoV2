@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[1.8.2, )"
             },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.14.1, )"
+            },
             "Microsoft.Azure.Cosmos": {
               "target": "Package",
               "version": "[3.32.0, )"

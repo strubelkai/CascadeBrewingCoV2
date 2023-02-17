@@ -10,6 +10,7 @@
         "dependencies": {
           "Azure.Extensions.AspNetCore.Configuration.Secrets": "1.2.2",
           "Azure.Identity": "1.8.2",
+          "Azure.Storage.Blobs": "12.14.1",
           "Microsoft.Azure.Cosmos": "3.32.0"
         },
         "runtime": {
@@ -74,6 +75,30 @@
           "lib/netstandard2.0/Azure.Security.KeyVault.Secrets.dll": {
             "assemblyVersion": "4.2.0.0",
             "fileVersion": "4.200.21.31503"
+          }
+        }
+      },
+      "Azure.Storage.Blobs/12.14.1": {
+        "dependencies": {
+          "Azure.Storage.Common": "12.13.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Azure.Storage.Blobs.dll": {
+            "assemblyVersion": "12.14.1.0",
+            "fileVersion": "12.1400.122.52008"
+          }
+        }
+      },
+      "Azure.Storage.Common/12.13.0": {
+        "dependencies": {
+          "Azure.Core": "1.25.0",
+          "System.IO.Hashing": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.Storage.Common.dll": {
+            "assemblyVersion": "12.13.0.0",
+            "fileVersion": "12.1300.22.51204"
           }
         }
       },
@@ -614,6 +639,14 @@
           "System.Runtime": "4.3.0"
         }
       },
+      "System.IO.Hashing/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.IO.Hashing.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "System.Linq/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -1144,6 +1177,20 @@
       "path": "azure.security.keyvault.secrets/4.2.0",
       "hashPath": "azure.security.keyvault.secrets.4.2.0.nupkg.sha512"
     },
+    "Azure.Storage.Blobs/12.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DvRBWUDMB2LjdRbsBNtz/LiVIYk56hqzSooxx4uq4rCdLj2M+7Vvoa1r+W35Dz6ZXL6p+SNcgEae3oZ+CkPfow==",
+      "path": "azure.storage.blobs/12.14.1",
+      "hashPath": "azure.storage.blobs.12.14.1.nupkg.sha512"
+    },
+    "Azure.Storage.Common/12.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jDv8xJWeZY2Er9zA6QO25BiGolxg87rItt9CwAp7L/V9EPJeaz8oJydaNL9Wj0+3ncceoMgdiyEv66OF8YUwWQ==",
+      "path": "azure.storage.common/12.13.0",
+      "hashPath": "azure.storage.common.12.13.0.nupkg.sha512"
+    },
     "Microsoft.Azure.Cosmos/3.32.0": {
       "type": "package",
       "serviceable": true,
@@ -1556,6 +1603,13 @@
       "sha512": "sha512-6QOb2XFLch7bEc4lIcJH49nJN2HV+OC3fHDgsLVsBVBk3Y4hFAnOBGzJ2lUu7CyDDFo9IBWkSsnbkT6IBwwiMw==",
       "path": "system.io.filesystem.primitives/4.3.0",
       "hashPath": "system.io.filesystem.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.IO.Hashing/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rfm2jYCaUeGysFEZjDe7j1R4x6Z6BzumS/vUT5a1AA/AWJuGX71PoGB0RmpyX3VmrGqVnAwtfMn39OHR8Y/5+g==",
+      "path": "system.io.hashing/6.0.0",
+      "hashPath": "system.io.hashing.6.0.0.nupkg.sha512"
     },
     "System.Linq/4.3.0": {
       "type": "package",

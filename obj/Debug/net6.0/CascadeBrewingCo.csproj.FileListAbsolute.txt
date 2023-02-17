@@ -93,3 +93,6 @@
 /Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/obj/Debug/net6.0/CascadeBrewingCo.csproj.CopyComplete
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/bin/Debug/net6.0/System.IO.Hashing.dll

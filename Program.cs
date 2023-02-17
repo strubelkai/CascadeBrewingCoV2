@@ -3,7 +3,7 @@ using Microsoft.Azure.Cosmos;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Azure.Extensions.AspNetCore.Configuration.Secrets;
-
+using Azure.Storage.Blobs;
 
 //Add the following lines under the var builder... line that already exists in Program.cs
 var builder = WebApplication.CreateBuilder(args);
@@ -17,17 +17,17 @@ builder.Configuration.AddAzureKeyVault(
     new Uri(builder.Configuration["KV_ENDPOINT"]),
     new DefaultAzureCredential());
 
-// <endpoint_key> 
+// <cosmos_endpoint_key> 
 // New instance of CosmosClient class using an endpoint and key string
-var client = new CosmosClient(builder.Configuration["CosmosConnection"]);
-// </endpoint_key>
+var cosmosClient = new CosmosClient(builder.Configuration["CosmosConnection"]);
+// </cosmos_endpoint_key>
 
 // <create_database>
 // New instance of Database class referencing the server-side database
-Database database = await client.CreateDatabaseIfNotExistsAsync("CascadeBrewsDb");
+Database database = await cosmosClient.CreateDatabaseIfNotExistsAsync("CascadeBrewsDb");
 builder.Services.AddSingleton(s =>
 {
-    return client;
+    return cosmosClient;
 });
 // </create_database>
 
@@ -39,6 +39,31 @@ Container container = await database.CreateContainerIfNotExistsAsync(
     throughput: 400
 );
 // </create_container>
+
+// <storage_endpoint_key> 
+// New instance of BlobServiceClient class using an endpoint and key string
+var blobServiceClient = new BlobServiceClient(builder.Configuration["StorageConnection"]);
+// </storage_endpoint_key>
+
+// <create_container>
+// New instance of Container class referencing the server-side container
+builder.Services.AddSingleton(s =>
+{
+    return blobServiceClient;
+});
+
+
+// Create the container and return a container client object
+string containerName = "brews98109";
+BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(containerName);
+builder.Services.AddSingleton(s =>
+{
+    return containerClient;
+});
+// </create_container>
+
+
+
 
 
 

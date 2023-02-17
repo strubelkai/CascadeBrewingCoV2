@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FoH0VauegtfPgwuO7txIUZ4X7i1C8f3y9JnuKWFRFj8D4WpF93qH3MdFMEb8FGuhzuDxYy8b9pySBjDwpV+Pjg==",
+  "dgSpecHash": "xrYO5kG+hfUafT9sFgmynfDn23NoguWweB8QxN/9GL6WXU1rf4oo8NYQr+rjchaKKJzoa2Vshu6pRblLFUGatA==",
   "success": true,
   "projectFilePath": "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/kristenfrohning/.nuget/packages/azure.extensions.aspnetcore.configuration.secrets/1.2.2/azure.extensions.aspnetcore.configuration.secrets.1.2.2.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/azure.identity/1.8.2/azure.identity.1.8.2.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/azure.security.keyvault.secrets/4.2.0/azure.security.keyvault.secrets.4.2.0.nupkg.sha512",
+    "/Users/kristenfrohning/.nuget/packages/azure.storage.blobs/12.14.1/azure.storage.blobs.12.14.1.nupkg.sha512",
+    "/Users/kristenfrohning/.nuget/packages/azure.storage.common/12.13.0/azure.storage.common.12.13.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/microsoft.azure.cosmos/3.32.0/microsoft.azure.cosmos.3.32.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -67,6 +69,7 @@
     "/Users/kristenfrohning/.nuget/packages/system.io.filesystem/4.3.0/system.io.filesystem.4.3.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.io.filesystem.accesscontrol/5.0.0/system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.io.filesystem.primitives/4.3.0/system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "/Users/kristenfrohning/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

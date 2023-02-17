@@ -1,0 +1,18 @@
+﻿@model List<Uri>
+
+@{
+    ViewData["Title"] = "Images";
+}
+
+@if (Model != null && Model.Count > 0)
+{
+    foreach (var item in Model)
+    {
+        <div class="imageBlock">
+            <a href="@item" target="_blank"><img class="thumb" src="@item" alt="images" /></a>
+        </div>
+    }
+}
+
+
+

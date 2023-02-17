@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
 using System.Net.Http;
 using Azure;
-
+using Azure.Storage.Blobs;
 
 namespace CascadeBrewingCo.Controllers
 {
@@ -21,6 +21,7 @@ namespace CascadeBrewingCo.Controllers
 	{
         private readonly ILogger<InventoryController> _logger;
         private readonly CosmosClient _cosmosClient;
+
 
         public InventoryController(ILogger<InventoryController> logger, CosmosClient cosmosClient)
 		{
@@ -79,6 +80,8 @@ namespace CascadeBrewingCo.Controllers
             }
 
         }
+
+
     }
 }
 

@@ -11,13 +11,17 @@
     <None Remove="Azure.Identity" />
     <None Remove="Azure.Extensions.AspNetCore.Configuration.Secrets" />
     <None Remove="Views\Inventory\" />
+    <None Remove="Azure.Storage.Blobs" />
+    <None Remove="Views\Image\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.32.0" />
     <PackageReference Include="Azure.Identity" Version="1.8.2" />
     <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.2.2" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.14.1" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Inventory\" />
+    <Folder Include="Views\Image\" />
   </ItemGroup>
 </Project>
