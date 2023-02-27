@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kristenfrohning/.nuget/NuGet/NuGet.Config"
+=======
+    "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/CascadeBrewingCo.csproj": {}
+  },
+  "projects": {
+    "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/CascadeBrewingCo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/CascadeBrewingCo.csproj",
+        "projectName": "CascadeBrewingCo",
+        "projectPath": "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/CascadeBrewingCo.csproj",
+        "packagesPath": "/Users/kaistrubel/.nuget/packages/",
+        "outputPath": "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kaistrubel/.nuget/NuGet/NuGet.Config"
+>>>>>>> e9120fba23f271372532d8487d1d0a0445e69034
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -74,7 +91,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+>>>>>>> e9120fba23f271372532d8487d1d0a0445e69034
         }
       }
     }

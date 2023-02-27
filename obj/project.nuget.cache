@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xrYO5kG+hfUafT9sFgmynfDn23NoguWweB8QxN/9GL6WXU1rf4oo8NYQr+rjchaKKJzoa2Vshu6pRblLFUGatA==",
   "success": true,
   "projectFilePath": "/Users/kristenfrohning/Library/Mobile Documents/com~apple~CloudDocs/Documents/strubelkai Projects/CascadeBrewingCo.csproj",
@@ -122,5 +123,11 @@
     "/Users/kristenfrohning/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/kristenfrohning/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "LcH9khr6FP7i7AxP524mMhDkgh60+JRIJcJpllJEqRzjJI5rMuEruiq+PUI+dYjrJXpsGfOj6xBZZfFXg9t6LA==",
+  "success": true,
+  "projectFilePath": "/Users/kaistrubel/Documents/Project/CascadeBrewingCo/CascadeBrewingCo.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> e9120fba23f271372532d8487d1d0a0445e69034
   "logs": []
 }
